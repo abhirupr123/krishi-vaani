@@ -1,0 +1,28 @@
+# --- Environment and Configuration Files ---
+.env
+
+# --- Python-specific files ---
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment directory
+venv/
+
+# --- Generated Data and Local Database ---
+# The chroma_db directory contains large, auto-generated binary files.
+data/chroma_db/
+data/.ipynb_checkpoints/
+
+# --- Editor and OS-specific files ---
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~

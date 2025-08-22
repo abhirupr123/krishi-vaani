@@ -7,7 +7,6 @@ def ingest_agmarknet_data(file_path: str):
     """
     print(f"Processing AGMARKNET data from: {file_path}")
     try:
-        # Load the raw data (e.g., from a CSV)
         df = pd.read_csv(file_path)
 
         # Example preprocessing steps
@@ -24,6 +23,5 @@ def ingest_agmarknet_data(file_path: str):
         print(f"Error processing AGMARKNET data: {e}")
 
 if __name__ == "__main__":
-    # Assuming raw data files are in the data/raw/ directory
     agmarknet_file = 'data/raw/agmarknet_data.csv'
     ingest_agmarknet_data(agmarknet_file)

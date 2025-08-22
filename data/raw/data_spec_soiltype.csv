@@ -1,0 +1,36 @@
+DATA SPECIFICATIONS,
+Layer Name:,Fraction Area – clayey textured soil (fclayey.asc)
+Header file name:,fclayey.hdr
+Version:,1
+Summary:,"This layer consists of fraction of clayey textured soil within a grid cell of 5000meters x 5000meters. The product was derived using soil and Land Use/Cover maps on 1:250,000 scale generated using multi-temporal AWiFS data aboard Resourcesat-1 / 2. The data is provided as long integer format. To convert the data to fraction area of grid cell, the number has to be divided with 10000."
+Data source:,Soil and Land Use/Cover maps of India
+Date stamp:,02/01/2016
+MD5 Checksum:,BAC3738389503595F185E15C13E2B9E5
+Image Type:,"ASCII, Band Sequential  (BSQ)"
+File Size:,1055618 bytes
+Data Type:,32 Bit Integer (Maximum value: 10000)
+Units of data:,Fraction of grid cell area
+Number of Lines:,694
+Number of Samples per line:,625
+Cell Size:,5000 Meters
+Geographical extent:,India
+Projection:,Albers Conical Equal Area
+Geographical extent:,India
+Projection Unit:,Meters
+Spheroid:,WGS 84
+Datum:,WGS 84
+Projection Parameters:,Lat of 1st Std Parallel: 28:00:00.000000 N
+,Lat of 2nd Std Parallel: 12:00:00.000000 N
+,Lon of Central Meridian: 78:00:00.000000 E
+,Lat of Origin of Projection: 20:00:00.000000 N
+,False Easting at Central Meridian: 2000000.000000 meters
+,False Northing at Origin: 2000000.000000 meters
+Lower Left X coord:,895000 meters
+Lower Left Y coord:,515000 meters
+Nodata value:,-9999
+Legend:,Consists of area fraction of clayey textured soil
+Companion files:,"Readme.txt, fclayey.jpg (for Quick visualization on web), fwater.asc (fraction of water spread in the grid cell), furban.asc (fraction of urban area spread in the grid cell), findia.asc (fraction of land area under India), latitude.asc (Latitude in geographical coordinate system for the central point of the grid cell), longitude.asc (Longitude in geographical coordinate system for the central point of the grid cell)."
+Citation:,Cite this data set as follows:  NRSC (2016) Soil Data set 2000. NICES/DS(L)/SOIL/2000/Jan2016 .
+Publications made using this data:,
+Data curator:,"Soils & Land Resources Assessment Division, LRUMG, RSAA, National Remote Sensing Centre, Balanagar, Hyderabad, India"
+Data curator email:,ddrsa@nrsc.gov.in

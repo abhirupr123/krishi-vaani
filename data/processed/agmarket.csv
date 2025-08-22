@@ -1,1 +1,1603 @@
-
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,11/06/2025,2200,2600,2400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,12/06/2025,2200,2600,2400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,20/06/2025,2600,3000,2800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,04/06/2025,2600,3000,2800,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,11/06/2025,2600,3000,2800,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,19/06/2025,2000,2400,2200,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,21/06/2025,2500,2700,2600,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,23/06/2025,2600,2800,2700,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,24/06/2025,2000,2800,2700,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,12/06/2025,2400,2700,2500,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,16/06/2025,2000,2600,2400,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,17/06/2025,2000,2600,2400,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,18/06/2025,2100,2300,2200,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,20/06/2025,1800,2200,2000,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,23/06/2025,1800,2400,2000,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,24/06/2025,2000,2300,2100,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,27/06/2025,2000,2400,2200,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,30/06/2025,2200,2400,2300,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,13/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,23/06/2025,3200,3600,3400,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,05/06/2025,1500,1700,1600,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,13/06/2025,1900,2300,2100,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,30/06/2025,1400,2000,1700,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,19/06/2025,600,800,700,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,03/06/2025,3400,4000,3700,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,05/06/2025,3300,3600,3400,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,19/06/2025,2800,3200,3000,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,20/06/2025,3500,4000,3800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,02/06/2025,8000,10000,9000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,04/06/2025,8000,10000,9000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,20/06/2025,6500,7500,7000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,26/06/2025,5000,7000,6000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,04/06/2025,2000,2400,2200,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,06/06/2025,1800,2200,2000,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,12/06/2025,2000,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,13/06/2025,2000,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,18/06/2025,1700,2000,1800,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,21/06/2025,1600,1800,1700,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,24/06/2025,1800,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,03/06/2025,1600,1800,1700,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,11/06/2025,1800,2200,2000,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,16/06/2025,1200,1600,1400,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,26/06/2025,1400,1600,1500,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,05/06/2025,11000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,09/06/2025,11000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,13/06/2025,10000,15000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,24/06/2025,10000,18000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,03/06/2025,10000,16000,15000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,11/06/2025,12000,17000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,12/06/2025,10000,14000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,18/06/2025,11000,16000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,21/06/2025,10000,15000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,24/06/2025,10000,16000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,05/06/2025,3000,4500,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,06/06/2025,3500,5500,4500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,11/06/2025,3000,5000,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,13/06/2025,2800,3800,3400,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,23/06/2025,2600,3800,3300,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,04/06/2025,1600,1800,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,05/06/2025,1400,1600,1500,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,12/06/2025,1900,2300,2100,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,25/06/2025,1500,1800,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,04/06/2025,2400,3000,2700,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,05/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,10/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,16/06/2025,2000,2400,2200,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,17/06/2025,2000,2400,2200,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,26/06/2025,2000,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,09/06/2025,4000,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,18/06/2025,3500,4000,3800,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,05/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,09/06/2025,4000,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,17/06/2025,2400,3000,2600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,03/06/2025,800,1000,900,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,09/06/2025,700,1000,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,11/06/2025,800,1000,900,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,16/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,30/06/2025,1400,1800,1600,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,04/06/2025,4000,4600,4300,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,18/06/2025,3400,4000,3800,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,21/06/2025,2200,2500,2300,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,23/06/2025,3000,4000,3600,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,25/06/2025,3500,4000,3800,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,26/06/2025,3300,3600,3400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,06/06/2025,2000,4000,2200,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,12/06/2025,2000,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,16/06/2025,1800,2200,2000,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,17/06/2025,1800,2200,2000,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,19/06/2025,1800,2100,1900,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,11/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,13/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,20/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,27/06/2025,800,1000,900,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,02/06/2025,3600,4200,3900,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,16/06/2025,3200,3600,3400,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,17/06/2025,3200,3600,3400,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,18/06/2025,3300,3600,3500,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,19/06/2025,3400,3600,3400,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,20/06/2025,3700,4200,4000,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,10/06/2025,3000,3800,3600,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,21/06/2025,2400,2800,2700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,23/06/2025,1500,2000,1700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,24/06/2025,1800,2000,1900,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,30/06/2025,2000,2800,2400,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,03/06/2025,2200,2600,2400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,05/06/2025,2800,3000,2900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,18/06/2025,900,1100,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,26/06/2025,2500,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,24/06/2025,1700,1900,1800,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,18/06/2025,2300,2800,2600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,27/06/2025,1700,2000,1800,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,13/06/2025,18000,21000,20000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,24/06/2025,17000,19000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,25/06/2025,16000,18000,17000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,02/06/2025,2200,2800,2600,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,03/06/2025,2200,2400,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,10/06/2025,2000,2500,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,11/06/2025,2000,2500,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,13/06/2025,2000,2500,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,24/06/2025,1500,1700,1600,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,26/06/2025,1700,2000,1800,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,04/06/2025,3000,4000,3500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,05/06/2025,2700,3000,2800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,06/06/2025,2700,3000,2800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,17/06/2025,3000,3600,3200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,20/06/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,25/06/2025,2000,2300,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,30/06/2025,1800,2600,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,05/06/2025,3700,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,09/06/2025,4000,5000,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,10/06/2025,4000,5000,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,11/06/2025,4000,5000,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,17/06/2025,4200,4800,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,20/06/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,30/06/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,10/06/2025,2000,2200,2100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,18/06/2025,1500,1700,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,20/06/2025,1300,1500,1400,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,21/06/2025,1300,1500,1400,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,24/06/2025,2400,2600,2500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,25/06/2025,2200,2400,2300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,02/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,04/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,06/06/2025,600,800,700,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,11/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,19/06/2025,1000,1600,1300,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,27/06/2025,800,1000,900,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,26/06/2025,5000,7000,6000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,13/06/2025,2700,3100,2900,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,17/06/2025,3200,3800,3500,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,20/06/2025,3400,4000,3700,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,27/06/2025,3000,3800,3400,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,10/06/2025,2600,3000,2800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,20/06/2025,2800,3300,3000,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,03/06/2025,5000,6000,5500,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,04/06/2025,5000,6000,5500,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,06/06/2025,3700,4200,4000,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,24/06/2025,3400,3600,3500,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,Local,01/07/2025,2300,2700,2500,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,01/07/2025,1700,1900,1800,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,01/07/2025,1600,2200,2000,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,01/07/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,01/07/2025,2200,2600,2300,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,01/07/2025,14000,16000,15000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,01/07/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,Local,01/07/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,01/07/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,01/07/2025,1700,2100,1900,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,01/07/2025,3000,4000,3600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,Local,01/07/2025,5000,5600,5400,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,19/06/2025,2500,2700,2600,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,23/06/2025,3000,3600,3400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,24/06/2025,5000,6000,5500,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,25/06/2025,6000,7000,6500,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,27/06/2025,4500,5500,5000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,06/06/2025,1400,1600,1500,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,17/06/2025,1200,1600,1400,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,21/06/2025,1600,1800,1700,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,04/06/2025,3400,4000,3700,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,06/06/2025,3300,3600,3400,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,11/06/2025,3000,3400,3200,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,18/06/2025,3000,3400,3300,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,24/06/2025,2500,2700,2600,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,27/06/2025,2700,3000,2800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,04/06/2025,3500,4500,4000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,06/06/2025,3300,3600,3400,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,11/06/2025,3000,3600,3300,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,16/06/2025,2400,3000,2600,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,30/06/2025,2200,2800,2500,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,06/06/2025,2400,2700,2500,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,12/06/2025,2700,3100,2900,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,16/06/2025,2400,3000,2600,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,17/06/2025,2500,3100,2700,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,18/06/2025,2200,2600,2400,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,27/06/2025,2000,2400,2200,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,09/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,25/06/2025,3000,3600,3400,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,27/06/2025,2500,3000,2800,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,19/06/2025,1800,2200,2000,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,23/06/2025,2000,2400,2300,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,13/06/2025,2400,2700,2500,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,18/06/2025,10000,15000,13000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,27/06/2025,10000,16000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,30/06/2025,10000,16000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,13/06/2025,2000,2600,2400,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,23/06/2025,4000,4200,4100,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,25/06/2025,4200,4400,4300,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,27/06/2025,3500,3800,3700,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,30/06/2025,2400,3400,2900,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,03/06/2025,4000,5000,4500,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,04/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,09/06/2025,5000,6000,5600,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,21/06/2025,6000,7500,6500,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,25/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,02/06/2025,4000,5000,4500,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,04/06/2025,4000,5000,4500,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,19/06/2025,2600,3000,2800,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,27/06/2025,2500,2700,2600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,03/06/2025,3000,4000,3500,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,06/06/2025,3700,4000,3800,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,11/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,20/06/2025,2800,3300,3000,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,02/06/2025,2200,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,10/06/2025,2000,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,13/06/2025,2000,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,24/06/2025,1800,2000,1900,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,04/06/2025,1000,1200,1100,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,19/06/2025,900,1800,1700,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,21/06/2025,3000,4500,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,30/06/2025,2800,3800,3400,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,06/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,10/06/2025,700,1000,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,17/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,20/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,24/06/2025,800,1000,900,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,26/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,27/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,05/06/2025,600,800,700,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,10/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,13/06/2025,600,800,700,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,20/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,27/06/2025,1800,2000,1900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,12/06/2025,18000,21000,20000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,04/06/2025,12000,18000,16000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,10/06/2025,10000,18000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,17/06/2025,11000,16000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,19/06/2025,10000,15000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,06/06/2025,2300,2500,2400,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,16/06/2025,1600,2200,2000,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,20/06/2025,900,1100,1000,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,27/06/2025,1500,1800,1600,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,03/06/2025,3800,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,06/06/2025,3700,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,26/06/2025,3800,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,11/06/2025,3600,4200,4000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,12/06/2025,3600,4200,4000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,13/06/2025,3600,4200,4000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,18/06/2025,2800,3200,3000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,19/06/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,05/06/2025,3700,4200,4000,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,12/06/2025,4000,4800,4200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,13/06/2025,4000,4800,4200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,16/06/2025,3000,4000,3600,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,19/06/2025,3000,3400,3300,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,20/06/2025,3000,3400,3300,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,23/06/2025,3600,4000,3800,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,03/06/2025,2000,2800,2600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,13/06/2025,2000,2200,2100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,03/06/2025,16000,20000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,09/06/2025,18000,21000,20000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,17/06/2025,16000,18000,17000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,13/06/2025,3000,3800,3600,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,26/06/2025,1500,1800,1700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,27/06/2025,1800,2200,2000,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,04/06/2025,3000,3600,3300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,09/06/2025,2600,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,17/06/2025,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,21/06/2025,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,23/06/2025,1300,1600,1500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,24/06/2025,1100,1300,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,25/06/2025,1200,1400,1300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,27/06/2025,2400,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,11/06/2025,3200,4000,3600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,19/06/2025,2200,2500,2400,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,26/06/2025,3000,3800,3400,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,12/06/2025,4000,5000,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,21/06/2025,2600,3000,2800,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,13/06/2025,2000,2400,2200,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,17/06/2025,1800,2000,1900,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,20/06/2025,1600,1800,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,30/06/2025,1400,2000,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,06/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,13/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,23/06/2025,2000,2600,2400,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,25/06/2025,2200,2500,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,11/06/2025,4000,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,17/06/2025,3600,4000,3800,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,21/06/2025,3400,3700,3500,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,23/06/2025,4000,5000,4600,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,25/06/2025,3000,4200,4000,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,26/06/2025,3500,3700,3600,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,05/06/2025,15000,17000,16000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,20/06/2025,17000,19000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,27/06/2025,16000,18000,17000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,White,Local,01/07/2025,2500,4000,3500,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,01/07/2025,2400,2800,2600,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,Local,01/07/2025,2400,2800,2600,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,Local,01/07/2025,14000,16000,15000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chikoos(Sapota),Sapota,Local,01/07/2025,2000,4000,3500,71
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,Local,01/07/2025,1000,1600,1300,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,01/07/2025,2000,2400,2200,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,Local,01/07/2025,2000,2200,2100,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,01/07/2025,2000,2600,2400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Local,01/07/2025,2000,2600,2400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,01/07/2025,4800,5800,5400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,Local,01/07/2025,4800,5800,5400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,01/07/2025,1000,1200,1100,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,Local,01/07/2025,3600,4400,4000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,01/07/2025,10000,16000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Other,Local,01/07/2025,2000,3000,2500,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Nendra Bale,Local,01/07/2025,1000,3000,2000,19
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,01/07/2025,3600,4200,3800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,06/06/2025,10000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,10/06/2025,11000,17000,15000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,11/06/2025,10000,16000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,03/06/2025,2600,3000,2800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,04/06/2025,1600,2000,1800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,05/06/2025,1700,2000,1800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,06/06/2025,1700,2000,1800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,10/06/2025,2000,2400,2200,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,10/06/2025,2000,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,11/06/2025,2000,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,17/06/2025,1800,2000,1900,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,20/06/2025,1600,1800,1700,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,25/06/2025,2000,2400,2200,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,26/06/2025,2200,2400,2300,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,27/06/2025,2000,2400,2300,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,04/06/2025,2000,2600,2300,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,05/06/2025,1800,2000,1900,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,09/06/2025,2400,2700,2500,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,10/06/2025,2400,2700,2500,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,19/06/2025,2000,12300,2100,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,13/06/2025,2200,2600,2400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,17/06/2025,2200,2400,2300,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,26/06/2025,2400,2600,2500,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,03/06/2025,2600,3000,2800,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,09/06/2025,2800,3200,3000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,12/06/2025,3000,3600,3300,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,18/06/2025,2500,3000,2700,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,20/06/2025,2400,3000,2800,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,24/06/2025,3500,4000,3800,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,03/06/2025,2400,2600,2500,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,04/06/2025,3000,4000,3500,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,16/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,18/06/2025,2500,3000,2800,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,20/06/2025,2300,2600,2400,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,24/06/2025,3000,3300,3200,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,26/06/2025,2800,3200,3000,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,02/06/2025,3000,4000,3500,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,05/06/2025,3300,3600,3400,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,12/06/2025,3000,3800,3600,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,19/06/2025,2400,2800,2700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,06/06/2025,2200,2600,2300,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,16/06/2025,2200,2600,2300,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,02/06/2025,2500,3000,2800,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,13/06/2025,3200,4000,3600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,23/06/2025,1600,2000,1800,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,10/06/2025,3000,5000,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,16/06/2025,3000,4000,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,04/06/2025,3600,4200,3900,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,11/06/2025,3600,3800,3700,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,21/06/2025,3700,4200,4000,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,27/06/2025,3800,4000,3900,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,30/06/2025,3600,4200,3800,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,21/06/2025,3500,4000,3800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,02/06/2025,1600,2000,1800,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,12/06/2025,1800,2200,2000,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,24/06/2025,1300,1500,1400,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,25/06/2025,1400,1500,1400,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,26/06/2025,1300,1500,1400,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,03/06/2025,7000,8000,7500,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,16/06/2025,3000,3600,3200,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,17/06/2025,3000,3600,3200,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,30/06/2025,3800,4800,4200,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,02/06/2025,3000,4000,3500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,09/06/2025,3600,4200,4000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,10/06/2025,3600,4200,4000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,16/06/2025,3000,3600,3200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,26/06/2025,2200,2400,2300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,27/06/2025,2000,2400,2300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,10/06/2025,18000,21000,20000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,18/06/2025,1000,1600,1300,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,11/06/2025,18000,21000,20000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,16/06/2025,16000,18000,17000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,02/06/2025,3800,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,19/06/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,25/06/2025,3700,4000,3800,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,11/06/2025,2600,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,13/06/2025,2600,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,19/06/2025,2200,2500,2400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,20/06/2025,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,11/06/2025,3800,4800,4300,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,30/06/2025,3000,3600,3400,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,02/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,13/06/2025,800,1000,900,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,23/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,23/06/2025,2000,2600,2400,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,24/06/2025,2300,2500,2400,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,30/06/2025,2800,3600,3200,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,06/06/2025,1400,1600,1500,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,09/06/2025,1600,2000,1800,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,16/06/2025,1800,2000,1900,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,21/06/2025,1600,1800,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,23/06/2025,1600,2000,1800,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,18/06/2025,2200,2500,2400,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,19/06/2025,2000,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,24/06/2025,2200,2500,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,30/06/2025,1600,2600,2100,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,04/06/2025,3500,4000,3700,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,05/06/2025,3400,3700,3600,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,19/06/2025,3400,3700,3500,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,20/06/2025,3400,3700,3500,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,30/06/2025,3400,4400,3900,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,05/06/2025,3700,4000,3800,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,12/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,19/06/2025,2800,3300,3000,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,20/06/2025,2600,3000,2800,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,26/06/2025,2400,2800,2700,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,03/06/2025,2200,3000,2600,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,04/06/2025,2200,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,09/06/2025,2000,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,18/06/2025,1900,2200,2000,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,20/06/2025,2200,2500,2300,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,30/06/2025,1200,1800,1500,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,03/06/2025,900,1200,1100,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,06/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,17/06/2025,700,900,800,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,18/06/2025,700,900,800,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,21/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,05/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,04/06/2025,2000,2800,2600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,06/06/2025,1800,2000,1900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,11/06/2025,2000,2200,2100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,19/06/2025,1300,1500,1400,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,23/06/2025,2600,3000,2800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,30/06/2025,1600,2400,2000,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,Large,02/06/2025,1000,1800,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,13/06/2025,10000,15000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,16/06/2025,10000,15000,12000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,23/06/2025,12000,16000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,25/06/2025,12000,16000,14000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,27/06/2025,8000,14000,10000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,04/06/2025,2200,2800,2600,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,09/06/2025,2000,2500,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,19/06/2025,1600,1800,1700,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,23/06/2025,1600,2000,1800,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,25/06/2025,1500,1800,1700,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,27/06/2025,3900,4100,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,03/06/2025,2400,3000,2600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,05/06/2025,2400,2600,2500,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,06/06/2025,2400,2600,2500,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,17/06/2025,3000,4200,3600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,21/06/2025,2800,3300,3000,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,26/06/2025,3500,4000,3800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,02/06/2025,5000,6000,5500,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,23/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,02/06/2025,5000,6000,5500,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,10/06/2025,4000,4800,4200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,18/06/2025,3200,3600,3400,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,30/06/2025,3000,4000,3500,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,01/07/2025,10000,15000,13000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,01/07/2025,3000,3800,3400,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,01/07/2025,800,1000,900,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,Local,01/07/2025,3000,4000,3600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,01/07/2025,4200,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,Local,01/07/2025,3600,4200,3800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,Local,01/07/2025,2200,2600,2300,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,01/07/2025,2200,2400,2300,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,Local,01/07/2025,2200,2400,2300,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,01/07/2025,3600,4400,4000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,01/07/2025,6000,6600,6400,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),Local,01/07/2025,6000,6600,6400,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,01/07/2025,2300,2700,2500,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Pachha Bale,Local,01/07/2025,600,1900,1250,19
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Badami,Local,01/07/2025,2000,4000,3000,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Neelam,Local,01/07/2025,1500,2500,2000,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Raspuri,Local,01/07/2025,2000,3500,3000,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Totapuri,Local,01/07/2025,600,1000,800,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,Local,01/07/2025,2000,4000,3000,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Water Melon,Water Melon,Local,01/07/2025,800,1400,1000,73
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,16/06/2025,4200,4800,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,18/06/2025,4100,4400,4300,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,21/06/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,23/06/2025,360,4400,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,21/06/2025,3000,3400,3300,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,26/06/2025,3000,3300,3200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,06/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,10/06/2025,5000,6000,5600,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,02/06/2025,2200,3000,2600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,04/06/2025,2500,3000,2800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,12/06/2025,2600,3000,2800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,18/06/2025,3100,3400,3300,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,23/06/2025,4000,4600,4400,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,24/06/2025,3800,4200,4000,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,09/06/2025,2600,3000,2800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,16/06/2025,3000,4200,3600,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,19/06/2025,2800,3300,3000,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,19/06/2025,6000,7500,6500,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,20/06/2025,6000,7500,6500,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,30/06/2025,4800,5600,5200,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,16/06/2025,3400,4400,3900,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,18/06/2025,3200,3800,3500,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,19/06/2025,3200,3800,3500,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,23/06/2025,3200,3800,3500,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,26/06/2025,1800,2000,1900,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,27/06/2025,2000,2300,2200,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,03/06/2025,2200,3000,2600,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,10/06/2025,2700,3100,2900,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,30/06/2025,2400,3000,2700,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,02/06/2025,3500,4500,4000,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,10/06/2025,1600,2000,1800,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,19/06/2025,1600,1800,1700,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,27/06/2025,1200,1500,1400,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,02/06/2025,2400,3000,2700,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,12/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,21/06/2025,2000,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,27/06/2025,2200,2600,2400,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,03/06/2025,3400,4000,3700,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,10/06/2025,4000,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,16/06/2025,3600,4000,3800,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,03/06/2025,3200,3600,3400,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,06/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,11/06/2025,4000,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,12/06/2025,4000,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,16/06/2025,2400,3000,2600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,18/06/2025,2500,2700,2600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,04/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,12/06/2025,800,1000,900,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,09/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,16/06/2025,3000,3600,3400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,27/06/2025,3400,3600,3500,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,30/06/2025,3000,3800,3400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,05/06/2025,2200,2600,2300,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,10/06/2025,3200,4000,3600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,12/06/2025,3200,4000,3600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,20/06/2025,2200,2500,2400,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,30/06/2025,1200,1800,1500,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,02/06/2025,3000,3600,3300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,10/06/2025,2600,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,12/06/2025,2600,3000,2800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,16/06/2025,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,30/06/2025,2400,3400,2900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,18/06/2025,1500,1800,1700,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,09/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,16/06/2025,800,1000,900,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,21/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,25/06/2025,600,800,700,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,30/06/2025,800,1000,900,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,02/06/2025,2000,2800,2600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,02/06/2025,16000,20000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,18/06/2025,1700,1900,1800,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,26/06/2025,15000,17000,16000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,09/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,16/06/2025,700,900,800,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,24/06/2025,1000,1200,1100,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,21/06/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,23/06/2025,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,24/06/2025,2100,2300,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,02/06/2025,4000,6000,5000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,04/06/2025,11000,17000,15000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,12/06/2025,9000,14000,10000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,16/06/2025,10000,15000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,19/06/2025,10000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,21/06/2025,10000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,23/06/2025,10000,15000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,25/06/2025,10000,16000,12000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,04/06/2025,1600,2000,1800,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,19/06/2025,1200,1400,1300,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,20/06/2025,1500,1700,1600,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,10/06/2025,2800,3200,3000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,21/06/2025,2400,3000,2800,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,27/06/2025,3200,3500,3400,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,03/06/2025,3800,4200,4000,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,05/06/2025,3500,3800,3600,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,06/06/2025,3500,3800,3600,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,09/06/2025,3600,3800,3700,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,12/06/2025,3600,3800,3700,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,24/06/2025,3800,4000,3900,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,25/06/2025,3800,4000,3900,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,26/06/2025,4000,4300,4200,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,03/06/2025,3000,3600,3300,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,06/06/2025,3300,3600,3400,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,17/06/2025,2000,2400,2200,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,18/06/2025,2500,3000,2700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,09/06/2025,2000,2400,2200,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,18/06/2025,2300,2500,2400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,24/06/2025,2800,3200,3100,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,25/06/2025,2800,3200,3100,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,26/06/2025,2400,2700,2600,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,05/06/2025,2700,3000,2900,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,11/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,12/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,30/06/2025,2600,3200,2900,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,02/06/2025,2000,2600,2300,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,11/06/2025,2400,2700,2500,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,25/06/2025,2000,2300,2100,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,04/06/2025,2500,4000,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,17/06/2025,3000,4500,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,18/06/2025,2500,4000,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,25/06/2025,2800,4000,3000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,27/06/2025,2800,3800,3400,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,02/06/2025,3000,3600,3300,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,09/06/2025,2600,3200,2800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,10/06/2025,2600,3200,2800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,12/06/2025,3000,3400,3200,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,16/06/2025,3200,3600,3400,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,30/06/2025,3000,4000,3500,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,05/06/2025,7000,9000,8000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,09/06/2025,7000,8000,7600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,18/06/2025,3200,4000,3600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,21/06/2025,6500,7500,7000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,23/06/2025,6000,7000,6500,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,02/06/2025,2000,2400,2200,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,05/06/2025,1800,2200,2000,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,16/06/2025,1800,2000,1900,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,09/06/2025,1800,2200,2000,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,05/06/2025,3300,3600,3400,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,13/06/2025,3000,3600,3300,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,25/06/2025,3300,3600,3400,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,05/06/2025,12000,18000,16000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,06/06/2025,12000,17000,15000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,09/06/2025,12000,17000,15000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,20/06/2025,12000,16000,13000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,26/06/2025,9000,15000,11000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pomegranate,Pomogranate,Large,30/06/2025,8000,15000,11000,190
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,26/06/2025,2000,2300,2200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,04/06/2025,17000,20000,18500,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,30/06/2025,14000,16000,15000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Elakki Bale,Local,01/07/2025,1000,6400,3700,19
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,Local,01/07/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,01/07/2025,3600,4200,4000,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,01/07/2025,2800,3800,3400,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Papaya,Papaya,Local,01/07/2025,800,1500,1200,72
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Pineapple,Pine Apple,Local,01/07/2025,3000,4000,3500,21
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,01/07/2025,2000,2400,2200,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),Local,01/07/2025,2000,2400,2200,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,Local,01/07/2025,1700,2100,1900,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,Local,01/07/2025,2200,2400,2300,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),Local,01/07/2025,3000,3800,3400,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,01/07/2025,5000,5600,5400,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,Local,01/07/2025,4200,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,01/07/2025,2000,2400,2200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,02/06/2025,2600,3000,2800,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,05/06/2025,2300,2600,2400,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,09/06/2025,2600,3000,2800,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,13/06/2025,2800,3200,3000,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,20/06/2025,2400,2600,2500,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,25/06/2025,2600,2800,2700,34
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,03/06/2025,11000,17000,15000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,17/06/2025,10000,16000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,26/06/2025,10000,18000,14000,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,21/06/2025,2600,3000,2800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,02/06/2025,1600,2000,1800,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,16/06/2025,2200,2400,2300,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Brinjal,Brinjal,FAQ,30/06/2025,2000,2800,2400,35
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,02/06/2025,3000,4000,3500,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,06/06/2025,2700,3000,2900,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,10/06/2025,2000,2200,2100,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,17/06/2025,2400,3000,2600,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,19/06/2025,2300,2500,2400,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,FAQ,21/06/2025,2300,2600,2400,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,03/06/2025,3000,5000,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,09/06/2025,3000,5000,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,12/06/2025,2600,4000,3200,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,19/06/2025,3000,4500,4000,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,20/06/2025,2500,4000,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,24/06/2025,3000,4500,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mousambi(Sweet Lime),Mousambi,Large,26/06/2025,3000,4500,3500,77
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,03/06/2025,3000,4000,3500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,11/06/2025,5000,6000,5600,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,12/06/2025,5000,6000,5600,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,13/06/2025,5000,6000,5600,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,16/06/2025,5000,6000,5400,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,17/06/2025,5000,6000,5400,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,18/06/2025,5500,6500,6000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,24/06/2025,8000,10000,9000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Drumstick,Drumstick,FAQ,27/06/2025,5500,6500,6000,168
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,09/06/2025,200,2200,2100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,12/06/2025,2000,2200,2100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,17/06/2025,1400,1800,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,23/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,26/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,21/06/2025,17000,19000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,23/06/2025,18000,20000,19000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,05/06/2025,2300,2500,2400,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,12/06/2025,2000,2500,2300,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,17/06/2025,1600,2200,2000,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,21/06/2025,1600,1800,1700,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,FAQ,30/06/2025,1600,2000,1800,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,04/06/2025,3800,4000,3900,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,13/06/2025,4000,5000,4600,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,FAQ,24/06/2025,3700,4000,3800,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,04/06/2025,2400,3000,2700,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,21/06/2025,2200,2500,2400,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,26/06/2025,1800,2000,1900,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,06/06/2025,2800,3000,2900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,03/06/2025,1600,1800,1700,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,09/06/2025,3200,4000,3600,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,17/06/2025,2200,2600,2300,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,25/06/2025,1700,2100,1900,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,13/06/2025,3000,3400,3200,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,18/06/2025,1300,1700,1500,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,23/06/2025,1400,1600,1500,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,Tomato,FAQ,27/06/2025,1400,1600,1500,78
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,03/06/2025,700,900,800,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,24/06/2025,600,800,700,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,19/06/2025,17000,19000,18000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,05/06/2025,1800,2000,1900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,16/06/2025,1400,1800,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,17/06/2025,1000,1600,1300,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Peas Wet,Peas Wet,FAQ,06/06/2025,15000,17000,16000,174
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,03/06/2025,1800,2000,1900,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,09/06/2025,2000,2200,2100,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bottle gourd,Bottle Gourd,FAQ,30/06/2025,2000,2800,2400,82
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,10/06/2025,3600,3800,3700,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,09/06/2025,4000,4800,4200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,11/06/2025,4000,4800,4200,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,17/06/2025,3000,4000,3600,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,25/06/2025,3300,3500,3400,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,FAQ,27/06/2025,2800,3300,3000,224
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,04/06/2025,3400,4000,3700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,09/06/2025,3000,3800,3600,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,11/06/2025,3000,3800,3600,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/06/2025,2000,2400,2200,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,20/06/2025,2400,2800,2700,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,25/06/2025,1800,2000,1900,160
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,05/06/2025,2000,2400,2200,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,11/06/2025,2000,2600,2400,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,21/06/2025,2200,2500,2300,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,23/06/2025,2000,3000,2600,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Potato,Sweet Potato,FAQ,25/06/2025,2000,3000,2600,152
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,17/06/2025,3200,3600,3400,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,02/06/2025,3500,4500,4000,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,17/06/2025,2400,3000,2600,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,FAQ,23/06/2025,3400,4000,3600,85
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,05/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,18/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,19/06/2025,2800,3300,3000,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,21/06/2025,600,800,700,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,25/06/2025,700,900,800,154
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,10/06/2025,4000,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,13/06/2025,4000,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,FAQ,25/06/2025,2300,3000,2700,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,03/06/2025,1200,1400,1300,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,11/06/2025,1800,2200,2000,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,18/06/2025,1700,2000,1900,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,24/06/2025,1400,1600,1500,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,FAQ,26/06/2025,1400,1600,1500,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,03/06/2025,2500,3000,2800,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,09/06/2025,2200,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,11/06/2025,1800,2200,2000,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,20/06/2025,2000,2400,2300,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,02/06/2025,3500,4000,3700,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,06/06/2025,3400,3700,3600,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,12/06/2025,4000,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,13/06/2025,4000,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,24/06/2025,3900,4200,4100,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,27/06/2025,3300,3500,3400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Avare (W),Green Avare (W),FAQ,24/06/2025,3200,3800,3500,165
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,02/06/2025,4000,4600,4300,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,10/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,13/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,17/06/2025,3000,3600,3400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,24/06/2025,3200,3500,3400,153
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Capsicum,Capsicum,FAQ,11/06/2025,2600,3000,2800,164
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,02/06/2025,1000,1200,1100,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,05/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,10/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,12/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,23/06/2025,900,1100,1000,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,25/06/2025,800,1000,900,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,26/06/2025,700,900,800,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,30/06/2025,800,1000,900,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,06/06/2025,7000,9000,8000,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,10/06/2025,7000,8000,7600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,11/06/2025,7000,8000,7600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,12/06/2025,7000,8000,7600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,13/06/2025,7000,8000,7600,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,19/06/2025,3000,3500,3300,94
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,03/06/2025,1200,2200,2000,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,21/06/2025,1900,2300,2100,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,06/06/2025,1800,2000,1900,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,26/06/2025,1800,2200,2000,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,23/06/2025,3000,4000,3600,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Green Chilli,Green Chilly,FAQ,26/06/2025,2500,3000,2800,87
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bitter gourd,Bitter Gourd,Local,01/07/2025,2000,2400,2200,81
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,Local,01/07/2025,1700,1900,1800,157
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,FAQ,01/07/2025,2200,2400,2300,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana - Green,Banana - Green,Local,01/07/2025,2200,2400,2300,90
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,Local,01/07/2025,800,1000,900,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Snakeguard,Snakeguard,Local,01/07/2025,1600,2200,2000,156
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Raddish,Raddish,FAQ,01/07/2025,2000,2200,2100,161
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Ginger(Green),Green Ginger,FAQ,01/07/2025,2200,2400,2300,103
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Mango,Keshar,Local,01/07/2025,2000,3500,3000,20
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Chapparad Avare,Chapparada Avarekai,FAQ,01/07/2025,4200,4600,4400,169
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Alsandikai,Alsandikai,Local,01/07/2025,4200,5000,4600,166
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Sweet Pumpkin,Sweet Pumpkin,FAQ,01/07/2025,1000,1600,1300,173
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,Local,01/07/2025,2000,2400,2200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Suvarna Gadde,Suvarnagadde,Local,01/07/2025,3800,4200,4000,178
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cucumbar(Kheera),Cucumbar,Local,01/07/2025,1000,1200,1100,159
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,Local,01/07/2025,1000,2000,1500,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bunch Beans,Bunch Beans,Local,01/07/2025,3600,4200,4000,224
+Karnataka,Bangalore,Hoskote,Pomegranate,Pomogranate,Medium,01/07/2025,3000,3800,3400,190
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,01/06/2025,2000,3600,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,07/06/2025,2800,4000,3500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,08/06/2025,2400,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,09/06/2025,2400,3500,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,11/06/2025,2400,3600,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,12/06/2025,2000,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,16/06/2025,3000,4000,3600,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,27/06/2025,1600,2800,2400,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,01/06/2025,1600,2400,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,06/06/2025,1600,2400,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,08/06/2025,2400,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,10/06/2025,1600,2800,2400,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,18/06/2025,1600,2400,2200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,27/06/2025,1000,2000,1600,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,28/06/2025,1400,2000,1600,35
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,17/06/2025,2800,4000,3500,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,20/06/2025,2400,3600,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,26/06/2025,2200,3200,2800,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,27/06/2025,2000,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,30/06/2025,2000,3200,2800,34
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,01/06/2025,3600,4500,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,03/06/2025,3200,4300,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,11/06/2025,4400,5000,4800,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,12/06/2025,4000,4800,4400,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,13/06/2025,3000,4000,3600,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,26/06/2025,3000,4000,3600,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,30/06/2025,2800,3600,3200,81
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,04/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,11/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,06/06/2025,1500,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,12/06/2025,2000,3000,2500,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,13/06/2025,1000,2000,1500,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,14/06/2025,1400,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,20/06/2025,1400,2000,1600,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,21/06/2025,1400,2000,1600,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,30/06/2025,1400,2500,2000,78
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,04/06/2025,2400,3600,3200,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,08/06/2025,2200,3600,3300,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,09/06/2025,2400,3600,3200,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,18/06/2025,1600,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,27/06/2025,1600,2000,1800,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,28/06/2025,1400,2000,1800,85
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,01/06/2025,1600,3000,2400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,03/06/2025,3000,6000,4400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,05/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,08/06/2025,2400,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,10/06/2025,3000,4500,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,12/06/2025,2000,4000,3200,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,25/06/2025,3200,4500,4000,87
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,06/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,15/06/2025,2400,3500,3000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,16/06/2025,3000,4500,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,17/06/2025,3000,4500,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,20/06/2025,3200,5000,4400,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,22/06/2025,3500,5000,4400,94
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,03/06/2025,1000,1500,1200,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,12/06/2025,1800,2200,2000,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,16/06/2025,1500,2400,2000,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,21/06/2025,2400,3200,3000,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,23/06/2025,2000,2500,2300,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,27/06/2025,2000,2500,2300,82
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,10/06/2025,1500,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,16/06/2025,1600,2300,2000,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,27/06/2025,1800,2300,2000,78
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,10/06/2025,2000,3200,2800,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,16/06/2025,1600,2800,2000,85
+Karnataka,Bangalore,Ramanagara,Onion,Onion,FAQ,06/06/2025,2000,2800,2400,23
+Karnataka,Bangalore,Ramanagara,Onion,Onion,FAQ,11/06/2025,1800,2800,2400,23
+Karnataka,Bangalore,Ramanagara,Onion,Onion,FAQ,18/06/2025,2000,2800,2400,23
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,FAQ,18/06/2025,19400,33400,26000,138
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,FAQ,30/06/2025,18000,28000,25000,138
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,01/06/2025,3500,5000,4400,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,09/06/2025,4000,6000,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,10/06/2025,4400,6000,5500,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,11/06/2025,5000,6000,5500,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,20/06/2025,4000,5000,4400,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,22/06/2025,3000,4500,4000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,26/06/2025,3000,4400,4000,88
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,02/06/2025,1800,2400,2000,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,06/06/2025,2000,2400,2200,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,08/06/2025,2000,2500,2300,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,10/06/2025,2000,2800,2500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,13/06/2025,2800,3600,3200,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,19/06/2025,2000,2700,2500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,20/06/2025,2200,2800,2500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,21/06/2025,2400,3000,2800,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,23/06/2025,2000,2800,2400,156
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,02/06/2025,2400,3200,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,04/06/2025,2800,3600,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,12/06/2025,2400,3000,2800,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,14/06/2025,2800,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,26/06/2025,2800,3500,3300,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,28/06/2025,2800,3600,3300,157
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,28/06/2025,3000,4000,3500,166
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,02/06/2025,1000,1300,1200,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,08/06/2025,1000,1300,1200,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,17/06/2025,1200,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,18/06/2025,1200,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,30/06/2025,1000,1500,1200,154
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,08/06/2025,4400,5500,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,12/06/2025,3000,5000,4000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,15/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,18/06/2025,4000,5400,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,21/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,26/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,01/06/2025,3600,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,12/06/2025,3200,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,13/06/2025,3200,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,15/06/2025,3000,4000,3600,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,16/06/2025,3500,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,21/06/2025,2800,3600,3200,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,30/06/2025,2800,3600,3200,103
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,21/06/2025,3200,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,24/06/2025,1600,2400,2000,160
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,02/06/2025,2000,3600,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,09/06/2025,1600,3200,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,11/06/2025,2400,3600,3000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,12/06/2025,1600,3000,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,13/06/2025,1600,3000,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,27/06/2025,1600,3000,2400,161
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,08/06/2025,4000,5000,4400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,10/06/2025,3000,4500,4000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,14/06/2025,3000,4000,3500,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,19/06/2025,1600,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,26/06/2025,2400,3000,2800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,30/06/2025,2000,3000,2500,162
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,03/06/2025,1600,2000,1800,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,15/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,18/06/2025,800,1200,1000,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,23/06/2025,1200,1400,1300,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,28/06/2025,1000,1200,1100,159
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,05/06/2025,5000,7000,6000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,14/06/2025,3500,4400,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,30/06/2025,2400,3600,3200,177
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,16/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,17/06/2025,2400,2800,2500,176
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,01/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,05/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,06/06/2025,1000,1600,1400,173
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,13/06/2025,5000,7000,6200,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,20/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,04/06/2025,6000,8200,7400,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,06/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,19/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,21/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,25/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,17/06/2025,4000,4800,4500,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,28/06/2025,3600,4400,4000,165
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,09/06/2025,4000,5000,4400,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,21/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,14/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,Local,01/07/2025,1600,3000,2400,34
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,Local,01/07/2025,1600,2000,1800,35
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,01/07/2025,2800,3500,3200,103
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,01/07/2025,1600,3200,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,Local,01/07/2025,1600,3200,2400,161
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,01/07/2025,2800,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,Local,01/07/2025,1600,2400,2200,156
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,01/07/2025,1000,1500,1200,154
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,01/07/2025,2400,3500,3200,177
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,Local,01/07/2025,4000,7000,6000,164
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,10/06/2025,2000,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,14/06/2025,2400,4000,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,19/06/2025,2500,3600,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,21/06/2025,3000,4400,4000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,22/06/2025,3000,4400,4000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,25/06/2025,2400,3600,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,14/06/2025,1600,2500,2300,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,15/06/2025,1600,2400,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,16/06/2025,2000,2800,2400,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,17/06/2025,2000,2600,2400,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,25/06/2025,1600,2000,1800,35
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,03/06/2025,8000,10000,9000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,12/06/2025,3000,4000,3600,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,13/06/2025,3000,4000,3600,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,14/06/2025,2400,4000,3200,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,23/06/2025,4000,5000,4400,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,30/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,01/06/2025,800,1300,1000,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,02/06/2025,800,1250,1000,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,07/06/2025,1400,2000,1700,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,09/06/2025,1400,2000,1600,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,19/06/2025,1400,1800,1600,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,28/06/2025,1500,2300,2000,78
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,04/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,14/06/2025,2000,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,17/06/2025,3200,5500,4800,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,18/06/2025,3000,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,23/06/2025,3000,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,02/06/2025,1600,2800,2400,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,23/06/2025,1000,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,25/06/2025,1000,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,04/06/2025,2400,3600,3000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,06/06/2025,2800,4000,3500,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,07/06/2025,2800,4000,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,08/06/2025,2400,3600,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,10/06/2025,2800,4000,3500,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,14/06/2025,3000,4000,3600,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,21/06/2025,2400,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,25/06/2025,2000,3200,2800,34
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,02/06/2025,3000,4400,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,05/06/2025,4000,4800,4500,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,09/06/2025,4500,5000,4800,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,15/06/2025,2800,3600,3200,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,17/06/2025,3300,4400,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,21/06/2025,3200,4000,3500,81
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,03/06/2025,1000,1600,1200,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,14/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,15/06/2025,1200,2000,1500,83
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,02/06/2025,1000,1600,1200,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,05/06/2025,1000,1600,1200,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,07/06/2025,2000,2400,2200,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,17/06/2025,1600,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,24/06/2025,2400,2800,2600,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,26/06/2025,2000,2800,2500,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,30/06/2025,2000,2500,2300,82
+Karnataka,Bangalore,Ramanagara,Kulthi(Horse Gram),Horse gram (Whole),FAQ,04/06/2025,4000,5000,4500,114
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,FAQ,25/06/2025,20000,34800,30000,138
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,03/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,11/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,15/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,25/06/2025,5000,7000,6000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,27/06/2025,6000,7400,7000,164
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,10/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,23/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,28/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,25/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,26/06/2025,3400,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,27/06/2025,3000,3500,3300,166
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,14/06/2025,3500,4800,4000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,17/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,23/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,24/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,28/06/2025,4000,5500,4800,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,30/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,12/06/2025,4000,5600,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,13/06/2025,4000,5500,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,19/06/2025,4000,5500,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,23/06/2025,3000,4000,3600,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,28/06/2025,4000,5000,4500,88
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,06/06/2025,1000,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,12/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,13/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,19/06/2025,1200,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,21/06/2025,1400,1800,1600,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,25/06/2025,1200,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,27/06/2025,1000,1500,1200,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,28/06/2025,1000,1500,1300,154
+Karnataka,Bangalore,Ramanagara,Thogrikai,Thogarikai,FAQ,20/06/2025,1600,2000,1800,170
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,08/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,10/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,12/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,15/06/2025,2800,3600,3000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,16/06/2025,1000,1500,1300,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,19/06/2025,1000,1500,1200,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,22/06/2025,1000,1300,1200,173
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,07/06/2025,2000,2600,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,22/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,02/06/2025,1500,1800,1600,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,09/06/2025,1600,1800,1700,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,11/06/2025,800,1200,1000,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,12/06/2025,800,1200,1000,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,17/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,20/06/2025,1000,1200,1100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,25/06/2025,1200,1400,1300,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,30/06/2025,800,1200,1000,159
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,12/06/2025,4000,6000,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,16/06/2025,3000,4000,3600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,20/06/2025,3000,4500,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,21/06/2025,3000,4500,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,28/06/2025,2800,4000,3200,177
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,01/06/2025,1600,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,02/06/2025,1600,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,06/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,10/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,03/06/2025,5000,6000,5600,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,04/06/2025,2400,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,10/06/2025,2800,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,17/06/2025,3000,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,20/06/2025,3200,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,03/06/2025,2000,3600,3000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,05/06/2025,2000,3600,3000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,22/06/2025,1200,2800,2000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,23/06/2025,1200,2400,2000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,25/06/2025,1600,3600,3000,161
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,04/06/2025,4000,5000,4400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,11/06/2025,3500,4000,3800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,16/06/2025,2400,3500,3000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,20/06/2025,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Potato,Potato,FAQ,22/06/2025,2400,3200,3000,24
+Karnataka,Bangalore,Ramanagara,Potato,Potato,FAQ,25/06/2025,2400,2800,2600,24
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,26/06/2025,4000,4800,4400,165
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,20/06/2025,3400,4000,3600,166
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,03/06/2025,2400,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,10/06/2025,2800,3600,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,16/06/2025,2400,3000,2800,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,20/06/2025,2800,3600,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,21/06/2025,2800,3500,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,23/06/2025,2400,3200,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,24/06/2025,2400,3000,2800,157
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,01/07/2025,2000,3200,2400,35
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Local,01/07/2025,2400,3500,3200,177
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,01/07/2025,3000,4000,3600,81
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,Local,01/07/2025,2800,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,Local,01/07/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,Local,01/07/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,01/07/2025,4000,5000,4500,88
+Karnataka,Bangalore,Ramanagara,Rice,Fine,FAQ,04/06/2025,6000,6400,6200,3
+Karnataka,Bangalore,Ramanagara,Rice,Fine,FAQ,10/06/2025,6000,6950,6500,3
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,20/06/2025,1600,2500,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,26/06/2025,1200,2000,1500,35
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,11/06/2025,1600,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,14/06/2025,1600,2300,2000,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,15/06/2025,1500,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Banana - Green,Banana - Green,FAQ,22/06/2025,6000,7000,6600,90
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,02/06/2025,2000,3600,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,04/06/2025,3000,4500,4000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,15/06/2025,2000,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,17/06/2025,2800,3600,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,20/06/2025,2400,4000,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,02/06/2025,1600,2500,2200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,03/06/2025,2000,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,09/06/2025,2000,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,12/06/2025,1600,2800,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,21/06/2025,1600,2000,1800,35
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,09/06/2025,2400,3600,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,12/06/2025,2400,3600,3000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,13/06/2025,2400,3800,3500,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,16/06/2025,3000,4000,3600,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,19/06/2025,2400,4000,3300,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,11/06/2025,3000,4400,4000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,15/06/2025,2000,4000,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,18/06/2025,2400,4000,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,24/06/2025,2000,3200,2400,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,28/06/2025,2400,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,03/06/2025,2000,3500,3000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,06/06/2025,2000,3500,3000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,13/06/2025,1600,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,14/06/2025,1600,2500,2300,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,20/06/2025,1200,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,21/06/2025,1200,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,08/06/2025,4500,4800,4600,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,14/06/2025,3000,4000,3600,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,19/06/2025,2800,4000,3200,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,20/06/2025,3000,4000,3500,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,27/06/2025,2800,3600,3300,81
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,07/06/2025,1200,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,13/06/2025,1000,1600,1400,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,19/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,02/06/2025,3000,4000,3600,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,06/06/2025,2800,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,11/06/2025,3000,4000,3600,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/06/2025,3000,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,18/06/2025,3200,3800,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,19/06/2025,4000,6000,5000,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,23/06/2025,2000,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,26/06/2025,2400,3800,3500,160
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,08/06/2025,1600,3000,2500,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,15/06/2025,1600,3200,2800,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,30/06/2025,1600,3200,2800,161
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,02/06/2025,3000,4500,4000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,05/06/2025,4500,6000,5500,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,06/06/2025,5000,6000,5600,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,08/06/2025,4400,5600,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,14/06/2025,4000,6000,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,25/06/2025,3000,4500,4000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,27/06/2025,3000,4500,4000,88
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,14/06/2025,3000,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,17/06/2025,3500,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,24/06/2025,2800,3500,3200,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,25/06/2025,2400,3500,3200,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,26/06/2025,2400,3500,3000,103
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,09/06/2025,3000,5500,4400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,16/06/2025,3000,5000,4400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,22/06/2025,3200,5500,4800,87
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,22/06/2025,1400,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,05/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,08/06/2025,3600,5500,4400,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,11/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,21/06/2025,4000,5000,4500,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,24/06/2025,3000,5000,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,25/06/2025,3500,5000,4400,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,26/06/2025,3000,4800,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,27/06/2025,3000,4800,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,28/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,09/06/2025,7000,9000,8000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,17/06/2025,2400,3600,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,24/06/2025,2000,3000,2400,177
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,18/06/2025,4000,4500,4300,165
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,14/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,20/06/2025,1000,1600,1400,173
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,09/06/2025,1000,1500,1300,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,12/06/2025,3200,4000,3600,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,17/06/2025,1600,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,21/06/2025,2000,2800,2400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,23/06/2025,1600,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,24/06/2025,1600,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,25/06/2025,2000,2500,2300,162
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,25/06/2025,3600,4400,4000,165
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,04/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,07/06/2025,1000,1600,1400,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,09/06/2025,800,1300,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,16/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,22/06/2025,1400,1800,1600,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,23/06/2025,1400,1800,1500,154
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,17/06/2025,3500,4400,4000,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,22/06/2025,3600,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,03/06/2025,1800,2400,2000,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,07/06/2025,2000,2500,2300,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,17/06/2025,2400,2800,2600,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,28/06/2025,2000,2400,2200,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,30/06/2025,1600,2400,2000,156
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,06/06/2025,3000,4000,3600,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,07/06/2025,2400,3500,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,09/06/2025,2800,3500,3300,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,11/06/2025,2800,3600,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,13/06/2025,2400,3000,2800,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,22/06/2025,2400,3200,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,27/06/2025,2400,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,09/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,11/06/2025,4000,5500,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,20/06/2025,3000,5000,4400,153
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,18/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,23/06/2025,3500,4200,4000,166
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,07/06/2025,8000,10000,9000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,11/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,12/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,18/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,20/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,21/06/2025,2400,3000,2800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,24/06/2025,2000,2800,2500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,25/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,27/06/2025,2000,2500,2300,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,30/06/2025,1600,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Soapnut(Antawala/Retha),Fine New,FAQ,04/06/2025,11000,11350,11200,207
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,01/06/2025,1600,1800,1700,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,08/06/2025,2000,2200,2100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,10/06/2025,1400,1600,1500,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,16/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,19/06/2025,800,1200,1000,159
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,05/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,13/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,17/06/2025,4400,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,24/06/2025,5000,6500,6000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,30/06/2025,4000,7000,6000,164
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,30/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,01/07/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,Local,01/07/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,01/07/2025,3500,4000,3800,165
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,01/07/2025,2000,2600,2400,78
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,Local,01/07/2025,3000,4000,3600,81
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,01/07/2025,2000,2800,2500,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,Local,01/07/2025,2000,2800,2500,82
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,01/07/2025,1600,3000,2400,34
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,Local,01/07/2025,2000,3200,2400,35
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,01/06/2025,2000,4000,3200,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,02/06/2025,2400,3600,3000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,04/06/2025,5000,6500,6000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,06/06/2025,4000,6000,5200,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,07/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,08/06/2025,4000,5500,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,12/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,16/06/2025,4000,6000,5200,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,28/06/2025,6000,8000,7000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,18/06/2025,4000,5600,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,20/06/2025,4400,6500,6000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,26/06/2025,5000,7000,6500,164
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,03/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,05/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,08/06/2025,8000,9800,9000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,09/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,12/06/2025,5000,7000,6000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,15/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,17/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,22/06/2025,6000,8000,7200,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,24/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,20/06/2025,4000,4800,4400,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,21/06/2025,4000,4500,4300,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,23/06/2025,4000,4500,4300,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,24/06/2025,3600,4500,4000,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,30/06/2025,3500,4400,4000,165
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,01/06/2025,2000,3200,2800,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,03/06/2025,2400,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,23/06/2025,2400,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Onion,Onion,FAQ,04/06/2025,2000,2800,2400,23
+Karnataka,Bangalore,Ramanagara,Onion,Onion,FAQ,22/06/2025,1600,2800,2400,23
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,01/06/2025,1600,2400,2000,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,04/06/2025,2000,2500,2300,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,09/06/2025,2000,2800,2500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,11/06/2025,3500,4000,3800,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,16/06/2025,2000,2800,2400,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,22/06/2025,2000,2600,2400,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,26/06/2025,2000,2800,2400,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,27/06/2025,1800,2400,2000,156
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,05/06/2025,2800,3500,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,08/06/2025,2800,3500,3300,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,15/06/2025,2400,3200,2800,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,17/06/2025,2800,3500,3300,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,19/06/2025,2500,3300,3000,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,30/06/2025,2800,3600,3000,157
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,16/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,21/06/2025,3500,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,30/06/2025,3000,4000,3500,166
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,03/06/2025,1000,1300,1200,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,10/06/2025,800,1300,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,11/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,24/06/2025,1400,1800,1600,154
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,01/06/2025,2800,3600,3200,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,02/06/2025,4000,4800,4500,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,03/06/2025,3600,4400,4000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,04/06/2025,3500,4800,4000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,06/06/2025,3000,4500,4000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,07/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,13/06/2025,4000,5500,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,19/06/2025,4000,5500,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,25/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,01/06/2025,3200,4400,4000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,03/06/2025,3000,4400,4000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,05/06/2025,4000,4800,4500,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,07/06/2025,4000,4800,4500,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,15/06/2025,2800,3600,3000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,18/06/2025,2000,2500,2200,162
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,04/06/2025,2000,2200,2100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,05/06/2025,2000,2200,2100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,06/06/2025,2000,2200,2100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,07/06/2025,2000,2400,2200,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,26/06/2025,1000,1200,1100,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,27/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,02/06/2025,800,1000,900,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,03/06/2025,800,1000,900,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,04/06/2025,1000,1200,1100,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,07/06/2025,1000,1500,1300,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,09/06/2025,1000,1500,1300,173
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,11/06/2025,800,1300,1000,173
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,11/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,14/06/2025,2000,2700,2500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,23/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,28/06/2025,2000,2400,2300,176
+Karnataka,Bangalore,Ramanagara,Castor Seed,Castor seed,FAQ,04/06/2025,6200,6400,6300,123
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,01/06/2025,3000,4500,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,04/06/2025,4000,6000,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,06/06/2025,4000,6000,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,08/06/2025,4400,5500,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,10/06/2025,3500,5000,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,13/06/2025,4000,5000,4400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,15/06/2025,2000,4000,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,23/06/2025,2400,3500,3000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,26/06/2025,2000,3500,2800,177
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,04/06/2025,1000,1500,1300,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,08/06/2025,1400,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,18/06/2025,1400,2000,1600,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,24/06/2025,1800,2300,2000,78
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,05/06/2025,2400,4000,3200,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,12/06/2025,1600,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,22/06/2025,1200,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,05/06/2025,3000,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,06/06/2025,3300,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,08/06/2025,4400,5500,5000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,09/06/2025,3000,4000,3600,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,18/06/2025,3500,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,27/06/2025,2400,3500,3000,103
+Karnataka,Bangalore,Ramanagara,Alasande Gram,Alasande Gram,FAQ,25/06/2025,7000,8200,8000,281
+Karnataka,Bangalore,Ramanagara,Rice,Fine,FAQ,11/06/2025,5000,6200,5800,3
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,01/06/2025,2800,3500,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,05/06/2025,2400,4000,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,08/06/2025,3200,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,09/06/2025,2800,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,12/06/2025,2800,3600,3000,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,14/06/2025,2800,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,27/06/2025,2000,3500,3000,160
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,04/06/2025,2000,4000,3200,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,07/06/2025,2000,4000,3200,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,10/06/2025,1600,2400,2000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,16/06/2025,3000,4000,3600,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,18/06/2025,2000,4000,3200,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,19/06/2025,2000,3500,3000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,26/06/2025,1600,2800,2000,161
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,03/06/2025,2000,4000,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,05/06/2025,3400,4400,4000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,18/06/2025,2400,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,23/06/2025,2000,3000,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,24/06/2025,2000,3000,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,26/06/2025,2000,3600,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,28/06/2025,2000,3500,3000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,30/06/2025,1600,2400,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,05/06/2025,2000,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,22/06/2025,1600,2200,2000,35
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,16/06/2025,3500,4400,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,25/06/2025,3000,3600,3200,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,10/06/2025,4400,5000,4800,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,18/06/2025,3000,4400,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,24/06/2025,3000,3500,3300,81
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,12/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,FAQ,04/06/2025,24000,35000,31000,138
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,03/06/2025,4000,5000,4600,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,07/06/2025,4000,6000,5500,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,15/06/2025,4000,5200,4800,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,16/06/2025,4000,5500,5000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,17/06/2025,4000,5200,4800,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,21/06/2025,3000,4500,4000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,24/06/2025,3000,4400,4000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,30/06/2025,3000,5000,4400,88
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,06/06/2025,3000,6000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,11/06/2025,3000,5000,4400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,13/06/2025,2000,4000,3200,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,15/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,19/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,21/06/2025,3000,5500,4400,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,24/06/2025,3000,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,27/06/2025,2000,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,30/06/2025,2000,4500,3000,87
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,01/06/2025,6000,8500,7200,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,07/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,18/06/2025,3000,4500,4000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,19/06/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,06/06/2025,2000,2500,2300,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,08/06/2025,1500,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,09/06/2025,1600,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,10/06/2025,1500,2000,1800,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,25/06/2025,2400,2800,2600,82
+Karnataka,Bangalore,Ramanagara,Gur(Jaggery),Unde,FAQ,11/06/2025,4800,5500,5000,74
+Karnataka,Bangalore,Ramanagara,Gur(Jaggery),Unde,FAQ,18/06/2025,4800,5200,5100,74
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,03/06/2025,1000,1500,1300,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,15/06/2025,1400,2000,1700,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,23/06/2025,1800,2300,2000,78
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,07/06/2025,2400,3600,3000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,15/06/2025,1200,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,26/06/2025,1500,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,09/06/2025,2000,2600,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,13/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,15/06/2025,2000,2800,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,19/06/2025,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,26/06/2025,2000,2400,2200,176
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,01/07/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,Local,01/07/2025,1000,1500,1200,154
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,Local,01/07/2025,4000,5500,4400,153
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,01/07/2025,2000,3200,2800,162
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,Local,01/07/2025,2000,2600,2400,78
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,Local,01/07/2025,4000,5000,4500,88
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,Local,01/07/2025,1000,1300,1200,159
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,01/07/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,02/06/2025,2000,3200,2500,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,05/06/2025,2800,3600,3200,34
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,22/06/2025,2000,3500,3000,34
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,07/06/2025,2000,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,13/06/2025,2000,2800,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,23/06/2025,1400,2000,1600,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,30/06/2025,1000,2000,1500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,06/06/2025,2400,4400,3500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,13/06/2025,2400,3600,3200,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,04/06/2025,2000,3200,2400,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,11/06/2025,2000,3000,2500,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,19/06/2025,1800,2400,2000,35
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,24/06/2025,1600,2000,1800,35
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,04/06/2025,3500,4400,4000,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,06/06/2025,4400,5000,4800,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,07/06/2025,4400,5500,4800,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,22/06/2025,3000,4000,3500,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,23/06/2025,3000,3600,3200,81
+Karnataka,Bangalore,Ramanagara,Bitter gourd,Bitter Gourd,FAQ,28/06/2025,2800,3500,3300,81
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,04/06/2025,5000,6500,6000,88
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,Chilly Capsicum,FAQ,18/06/2025,3600,5000,4400,88
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,02/06/2025,2000,4000,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,03/06/2025,3000,5000,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,07/06/2025,5000,7000,6200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,11/06/2025,4400,7000,6000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,18/06/2025,2400,3500,3000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,19/06/2025,4000,5500,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,22/06/2025,3000,4800,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,25/06/2025,2000,3500,3000,177
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,01/06/2025,6000,8000,7200,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,02/06/2025,7000,9000,8000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,14/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,18/06/2025,6000,8000,7200,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,26/06/2025,7000,9000,8200,168
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,27/06/2025,6000,8000,7000,168
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,03/06/2025,1600,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,05/06/2025,2000,2500,2300,176
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,13/06/2025,1000,1300,1200,173
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,13/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,14/06/2025,800,1000,900,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,21/06/2025,1200,1400,1300,159
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,24/06/2025,1200,1400,1300,159
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,01/06/2025,1000,1600,1200,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,02/06/2025,1000,1500,1200,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,17/06/2025,1000,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,30/06/2025,1200,2000,1600,83
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,02/06/2025,3200,4400,4000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,06/06/2025,4000,4900,4400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,13/06/2025,3000,4000,3600,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,27/06/2025,2000,2800,2500,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,28/06/2025,2000,2500,2300,162
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,02/06/2025,2000,4000,3200,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,07/06/2025,3000,4500,4000,87
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,05/06/2025,1500,2000,1800,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,11/06/2025,1500,2500,2000,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,17/06/2025,1500,2200,2000,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,25/06/2025,2000,2600,2400,78
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,26/06/2025,2000,2600,2400,78
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,08/06/2025,2000,2500,2300,176
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,17/06/2025,1000,1300,1200,173
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,04/06/2025,2000,2600,2400,176
+Karnataka,Bangalore,Ramanagara,Sweet Pumpkin,Sweet Pumpkin,FAQ,30/06/2025,800,1200,1000,173
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,01/06/2025,1000,1200,1100,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,04/06/2025,1000,1600,1400,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,13/06/2025,1800,2200,2000,82
+Karnataka,Bangalore,Ramanagara,Bottle gourd,Bottle Gourd,FAQ,28/06/2025,2000,2800,2400,82
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,02/06/2025,4000,4800,4500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,04/06/2025,3200,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,07/06/2025,3000,4000,3600,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,11/06/2025,3500,4400,4000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,19/06/2025,3000,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,03/06/2025,4000,5000,4400,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,10/06/2025,3000,4000,3600,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,20/06/2025,3000,4000,3500,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,22/06/2025,3000,3600,3200,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,23/06/2025,2400,3500,3000,103
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,FAQ,28/06/2025,2800,3600,3000,103
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,07/06/2025,3200,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,13/06/2025,3000,4000,3600,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,15/06/2025,3000,4000,3600,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,22/06/2025,3200,4000,3500,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,25/06/2025,2000,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28/06/2025,2400,3600,3200,160
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,30/06/2025,1600,2400,2000,160
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,01/06/2025,2000,3200,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,06/06/2025,2000,3600,3200,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,14/06/2025,1400,2800,2500,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,17/06/2025,2400,4000,3200,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,20/06/2025,2000,3500,3000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,21/06/2025,1000,3000,2400,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,24/06/2025,1200,2800,2000,161
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,28/06/2025,1600,3200,2800,161
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,01/06/2025,1600,2500,2300,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,11/06/2025,2400,4000,3200,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,17/06/2025,1000,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,19/06/2025,1400,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,24/06/2025,1000,2000,1400,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,30/06/2025,1000,2000,1600,85
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,22/06/2025,3800,4400,4000,165
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,10/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,22/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,01/06/2025,1000,1200,1100,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,05/06/2025,800,1000,900,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,14/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,15/06/2025,800,1200,1000,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,20/06/2025,1300,1600,1500,154
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,26/06/2025,1200,1500,1300,154
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,19/06/2025,3400,4000,3600,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,24/06/2025,3500,4200,4000,166
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,05/06/2025,2000,2500,2300,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,12/06/2025,3000,3800,3500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,14/06/2025,3000,3500,3200,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,15/06/2025,2000,2800,2500,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,18/06/2025,2400,2800,2600,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,24/06/2025,2000,2600,2400,156
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,25/06/2025,2000,2800,2400,156
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,01/06/2025,2800,3500,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,18/06/2025,2400,3500,3200,157
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,25/06/2025,2400,3000,2800,157
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,19/06/2025,4000,4800,4500,165
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),FAQ,27/06/2025,3800,4400,4000,165
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,05/06/2025,4000,4800,4400,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,10/06/2025,4000,5500,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,16/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,22/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,27/06/2025,4000,6000,5000,153
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,23/06/2025,4000,6000,5000,164
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,02/06/2025,7000,9000,8000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,04/06/2025,6000,8000,7000,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,09/06/2025,3800,5000,4400,94
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,10/06/2025,3000,5000,4000,94
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,20/06/2025,3200,4800,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,26/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,28/06/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,01/07/2025,1600,2000,1800,35
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,01/07/2025,4000,5500,4400,153
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,01/07/2025,1600,2400,2200,156
+Karnataka,Bangalore,Ramanagara,Green Chilli,Green Chilly,FAQ,01/07/2025,3000,5000,4000,87
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,Local,01/07/2025,2000,3200,2800,162
+Karnataka,Bangalore,Ramanagara,Ginger(Green),Green Ginger,Local,01/07/2025,2800,3500,3200,103
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,FAQ,01/07/2025,1600,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),Bhindi,Local,01/07/2025,1600,2400,2000,85
+Karnataka,Bangalore,Ramanagara,Beans,Beans (Whole),Local,01/07/2025,4000,6000,5000,94
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,01/07/2025,4000,7000,6000,164
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,FAQ,01/07/2025,3000,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Alsandikai,Alsandikai,Local,01/07/2025,3000,4000,3800,166
+Karnataka,Bangalore,Ramanagara,Green Avare (W),Green Avare (W),Local,01/07/2025,3500,4000,3800,165
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,01/07/2025,1000,1300,1200,159
